@@ -1,4 +1,11 @@
 # VIAJANDO ANDO 
+
+¡Ahora podrás ahorrar mientras viajas!
+Con Viajandoando disfruta de tus viajes acumulando puntos para darte beneficios como viajero frecuente
+
+![screencapture-viajandoando-techroom-mx-2018-04-03-00_35_36](https://user-images.githubusercontent.com/31233225/38231287-8b1cb56e-36d7-11e8-9aea-a59bfbedc50f.png)
+
+
 * *Especialidad:* UX Designer
 * *Sprint 01:*  __
 
