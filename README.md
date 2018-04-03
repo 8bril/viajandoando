@@ -1,4 +1,4 @@
-# VIAJANDO ANDO 
+# VIAJANDOANDO 
 
 ¡Ahora podrás ahorrar mientras viajas!
 Con Viajandoando disfruta de tus viajes acumulando puntos para darte beneficios como viajero frecuente
