@@ -71,3 +71,7 @@ Como segundo objetivo tenemos diseñar y prototipar una landingPage que cuente a
 
 ## IMPLEMENTANDO SOLUCIÓN 
 
+![28554939_1825510084180221_367052971_o](https://user-images.githubusercontent.com/31233225/38581335-2f86a86c-3cd2-11e8-9ca3-ee0acb2b870a.png)
+![30653115_1870538909677338_1896889284284121088_o](https://user-images.githubusercontent.com/31233225/38581336-2fa14cee-3cd2-11e8-82d8-4f28f4954d03.jpg)
+![30581664_1870538929677336_5627905839353298944_o](https://user-images.githubusercontent.com/31233225/38581338-2fbaec3a-3cd2-11e8-9892-b09c680cb100.jpg)
+![30531498_805291926328512_591426321033199616_n](https://user-images.githubusercontent.com/31233225/38581340-2fde48ba-3cd2-11e8-8a0a-8750cdb963ff.jpg)
